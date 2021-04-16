@@ -1,0 +1,9 @@
+wikipedia
+Python.js
+logger
+youtube-dl
+notifypy
+playsound
+PyAudio
+gtts
+speech_recognition
